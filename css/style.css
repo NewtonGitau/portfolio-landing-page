@@ -4,6 +4,7 @@
     background-size: cover;
     background-attachment: fixed;
     font-size: larger;
+    margin: auto;
     }
 }
 
@@ -67,5 +68,8 @@ input {
 }
 em {
     font-style:italic;
-    color: orchid;
+    color:navy;
+}
+abbr {
+    text-decoration: none;
 }
