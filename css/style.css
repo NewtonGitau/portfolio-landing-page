@@ -28,7 +28,18 @@ h2 {
 p  {
 
 }
-img {
+.img {
     float: right;
+}
+img {
     border-radius: 50%;
 }
+a {
+    text-decoration: none;
+}
+.footer {
+    position:fixed;
+    text-align: center;
+    font-size: 40px;
+
+} 
