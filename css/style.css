@@ -40,6 +40,11 @@ a {
 .footer {
     position:fixed;
     text-align: center;
+    color: grey;
     font-size: 40px;
-
+    background-image: url(../images/gears.jpg);
+    bottom: 0cm;
+    right: 0cm;
+    left: 0cm;
+    padding-top: 100px;
 } 
