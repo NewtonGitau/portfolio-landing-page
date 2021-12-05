@@ -1,10 +1,11 @@
 @media screen and (min-width: 480px) {
     body {
-    background-image: url(../images/skateboard.jpeg);
+    background-image: url(../images/sky.jpeg);
     background-size: cover;
     background-attachment: fixed;
     font-size: larger;
-    margin: auto;
+    margin-left: 200px;
+    margin-bottom: 100px;
     }
 }
 
@@ -16,13 +17,14 @@ font-size: 40px;
 .ordered-list {
     list-style-position: inside;
     text-align: left;
-    color: rgb(117, 55, 55);
+    color: rgb(3, 3, 66);
 
 }
 .unordered-list {
     list-style-position: inside;
     text-align: left;
-    color: rgb(93, 85, 165);
+    color: rgb(41, 4, 70);
+    font-size: 20px;
 }
 h2 {
     color: black;
@@ -35,10 +37,11 @@ p  {
 }
 .img {
     float: right;
+    margin-right: 10px;
 }
 img {
     border-radius: 50%;
-    width: 200px;
+    width: 230px;
 }
 a {
     text-decoration: none;
@@ -72,4 +75,7 @@ em {
 }
 abbr {
     text-decoration: none;
+}
+.content {
+    
 }
