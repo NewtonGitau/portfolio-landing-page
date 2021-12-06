@@ -7,8 +7,9 @@ This is a web page deployed detailing more information on Newton Gitau; his hobb
 Current version v1.0 December/4/2021
 
 ## Contact
-For any changes and future iterations on the landing page, content will be posted on my GitHub page github.com/NewtonGitau
+For any changes and future iterations on the landing page, content will be posted on [GitHub](https://github.com/NewtonGitau).
 
 ## License
 MIT License
 Copyright (c) December/4/2021 Porfolio Landing Page
+[Github](https://www.github.com)
