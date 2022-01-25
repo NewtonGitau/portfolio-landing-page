@@ -22,14 +22,15 @@ header a:hover {
     color: white;
 }
 .home {
-    background-color: #273746;
+    background-color: #273746de;
     width: 100%;
     height: auto;
     text-align: center;
     color: #95A5A6;
     padding: 1%;
+   
 }
-.home img {
+.newton {
     border-radius: 50%;
     width: 25%;
     height: 25%;
@@ -44,4 +45,15 @@ header a:hover {
 }
 .fa:hover {
     opacity: 0.7;
+}
+.my-portfolio img {
+    height: 25em;
+}
+.my-portfolio {
+    padding-top: 1%;
+}
+.card {
+    padding: 2%;
+    border: none;
+
 }
