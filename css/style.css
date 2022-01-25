@@ -86,5 +86,14 @@ ul {
     border-radius: 5px;
     padding-top: 2.5%;
     padding-bottom: 2%;
-    background-color: #8ee4af23;
+    background-color: #8ee4afb6;
+}
+body {
+    color: #05386b;
+}
+h2 {
+    color: #273746de;
+}
+.hobbies {
+    padding-top: 2%;
 }
