@@ -1,15 +1,14 @@
 .menu {
     float: right;
-    
 }
 header {
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: white;
     padding: 20px 10px;
 }
 header a {
     float: left;
-    color: black;
+    color: #05386b;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -18,15 +17,15 @@ header a {
     border-radius: 4px;
 }
 header a:hover {
-    background-color: #273746;
+    background-color: #68aa84;
     color: white;
 }
 .home {
-    background-color: #273746de;
+    background-color: #68aa84;
     width: 100%;
     height: auto;
     text-align: center;
-    color: #95A5A6;
+    color: #05386b;
     padding: 1%;
    
 }
@@ -41,7 +40,7 @@ header a:hover {
     font-size: 30px;
     text-align: center;
     text-decoration: none;
-    color: #95A5A6;
+    color: #05386b;
 }
 .fa:hover {
     opacity: 0.7;
@@ -58,11 +57,34 @@ header a:hover {
 }
 .about-me{
     text-align: center;
-    background-color: #273746de;
+    background-color: #68aa84;
     padding-top: 1%;
+    height: 17rem;
+    padding-right: 1%;
+    overflow-y:auto;
+
 }
 .about-me p{
     text-align: left;
-    padding-left: 15%;
-    color: #95A5A6;
+    padding-left: 5%;
+    color: #05386b;
+    float: left;
+}
+ul {
+    list-style-type: none;
+}
+.details-about-me {
+   float: right;
+}
+
+.download-btn {
+    padding-top: 10%;
+    float: left;
+}
+.container {
+    border: 2px solid red;
+    border-radius: 5px;
+    padding-top: 2.5%;
+    padding-bottom: 2%;
+    background-color: #8ee4af23;
 }
