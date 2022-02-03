@@ -82,11 +82,9 @@ ul {
     float: left;
 }
 .container {
-    border: 2px solid red;
     border-radius: 5px;
     padding-top: 2.5%;
     padding-bottom: 2%;
-    background-color: #8ee4afb6;
 }
 body {
     color: #05386b;
@@ -147,6 +145,9 @@ h2 {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+#contact {
+    background: #68aa84;
+}
 .footer-paralax {
     padding: 4rem 0 0 0;
   }
@@ -163,15 +164,14 @@ h2 {
   
   .php-email-form .error-message {
     display: none;
-    color: #fff;
-    background: #ed3c0d;
+    color: #05386b;
     text-align: center;
     padding: 15px;
     font-weight: 600;
   }
   .php-email-form .sent-message {
     display: none;
-    color: #fff;
+    color: #05386b;
     background: #18d26e;
     text-align: center;
     padding: 15px;
@@ -214,7 +214,7 @@ h2 {
     background: #0078ff;
     border: 0;
     padding: 10px 24px;
-    color: #fff;
+    color: #05386b;
     transition: 0.4s;
   }
   .php-email-form button[type=submit]:hover {
@@ -245,9 +245,9 @@ h2 {
 --------------------------------------------------------------*/
 footer {
     text-align: center;
-    color: #fff;
+    color: #05386b;
     padding: 25px 0;
-    background: #0062d3;
+
   }
   footer .copyright {
     margin-bottom: 0.3rem;
@@ -256,5 +256,5 @@ footer {
     margin-bottom: 0;
   }
   footer .credits a {
-    color: #fff;
+    color: #05386b;
   }
